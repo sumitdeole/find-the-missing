@@ -1,1 +1,3 @@
-# find-the-missing
+# Let's find the missing
+
+Every year, thousands of people go missing across the world, leaving behind a trail of unanswered questions and heartbroken loved ones. In the United States, where going voluntarily missing is legally permissible, this phenomenon takes on a unique significance. This possibility is often highlighted by the police in the first few hours, crucial for any subsequent investigation, when we report our loved ones as *unreachable*. Sadly, there is no focused/unanimous effort from governmental/nongovernmental authorities to collect and store information in a single place where we can crowdsource our efforts. Let's come together and gather all what we know about the missing.
