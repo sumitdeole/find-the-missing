@@ -7,15 +7,15 @@ This project aims to bridge that gap by creating a collaborative platform where 
 
 
 ## Goals
-1. **Centralize Information:** Provide a single, accessible repository for data on missing persons, including their identities, last known locations, physical descriptions, and any other relevant details.
-2. **Facilitate Collaboration:** Enable users to contribute corrections, updates, and new information about missing individuals, fostering a collaborative effort to keep the data as accurate and up-to-date as possible.
-3. **Raise Awareness:** Increase public awareness about the issue of missing persons and the importance of collective action in locating and reuniting them with their loved ones.
-4. **Empower Communities:** Empower communities to take an active role in the search for missing individuals by providing them with a platform to share information and coordinate efforts.
+1. *Centralize Information:* Provide a single, accessible repository for data on missing persons, including their identities, last known locations, physical descriptions, and any other relevant details.
+2. *Facilitate Collaboration:* Enable users to contribute corrections, updates, and new information about missing individuals, fostering a collaborative effort to keep the data as accurate and up-to-date as possible.
+3. *Raise Awareness:* Increase public awareness about the issue of missing persons and the importance of collective action in locating and reuniting them with their loved ones.
+4. *Empower Communities:* Empower communities to take an active role in the search for missing individuals by providing them with a platform to share information and coordinate efforts.
 
 
 ## Contributing
 We welcome and encourage contributions from anyone who wishes to participate in this important cause. Whether you have information about a missing person, suggestions for improving the project, or technical expertise to offer, your contributions are invaluable.
-To get started, please refer to the CONTRIBUTING.md file for detailed guidelines on how to submit corrections, add new data, or report issues.
+**Please contribute by submitting your updates to the *missing_persons_clean.csv* file. Only submissions that include valid resource links for verification will be merged.**
 
 
 ## Interactive Map
