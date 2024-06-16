@@ -21,7 +21,7 @@ We welcome and encourage contributions from anyone who wishes to participate in 
 ## Interactive Map
 At the heart of this project is an interactive map that visualizes the locations and key details of missing persons. This map is not just a data visualization tool; it's a window into the stories and lives behind each missing person, inviting us to reflect on the philosophical depths of individual autonomy, self-determination, and the pursuit of an authentic existence.
 
-(interactive map)[https://sumitdeole.github.io/find-the-missing/]
+[The missing persons map](https://sumitdeole.github.io/find-the-missing/)
 
 Please explore the interactive map to contribute your insights, and join us in this thought-provoking exploration of the philosophical dimensions surrounding missing persons.
 
