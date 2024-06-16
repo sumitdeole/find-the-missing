@@ -17,7 +17,6 @@ This project aims to bridge that gap by creating a collaborative platform where 
 We welcome and encourage contributions from anyone who wishes to participate in this important cause. Whether you have information about a missing person, suggestions for improving the project, or technical expertise to offer, your contributions are invaluable.
 **Please contribute by submitting your updates to the *missing_persons_clean.csv* file. Only submissions that include valid resource links for verification will be merged.**
 
-
 ## Interactive Map
 At the heart of this project is an interactive map that visualizes the locations and key details of missing persons. This map is not just a data visualization tool; it's a window into the stories and lives behind each missing person, inviting us to reflect on the philosophical depths of individual autonomy, self-determination, and the pursuit of an authentic existence.
 
@@ -26,3 +25,5 @@ At the heart of this project is an interactive map that visualizes the locations
 Please explore the interactive map to contribute your insights, and join us in this thought-provoking exploration of the philosophical dimensions surrounding missing persons.
 
 Together, we can make a difference in the lives of those who have gone missing and their loved ones. Let's find the missing, one step at a time.
+
+**Next step:** Webscraping for all possible online sources of verified information
